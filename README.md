@@ -1,6 +1,6 @@
 # Q-Repo Tools & Misc Courses Repository 
 
-**A community-curated repository of free and high-quality Data Science courses from leading institutions worldwide.**
+**A community-curated repository of free miscellaneous or tool specific courses from leading institutions worldwide.**
 
 ---
 
