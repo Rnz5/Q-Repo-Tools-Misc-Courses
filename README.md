@@ -1,6 +1,6 @@
 # Q-Repo Tools & Misc Courses Repository 
 
-**A community-curated repository of free miscellaneous or tool specific courses from leading institutions worldwide.**
+**A community-curated repository of free and high-quality Data Science courses from leading institutions worldwide.**
 
 ---
 
@@ -45,7 +45,6 @@ Click any category below to see the best training sources for that skill area:
 | [Google Skill Shop](institutions/google-skill-shop.md) | All Google Workspace tools | 100% free |
 | [Microsoft Learn](institutions/microsoft-learn.md) | Microsoft 365, Power Platform | 100% free |
 | [Cisco Networking Academy](institutions/cisco-network.md) | Networking, cybersecurity, IoT | Free courses available |
-| [Coursera](institutions/coursera.md) | Career, business, soft skills, academics | Free audit mode |
 | [edX](institutions/edx.md) | University courses, professional skills | Free audit mode |
 | [LinkedIn Learning](institutions/linkedin.md) | Career development, software skills | 1-month free trial |
 | [FutureLearn](institutions/futurelearn.md) | UK/EU university courses | Limited free access |
@@ -79,3 +78,9 @@ This repository is a **community-curated directory** of training catalogs and is
 *   **User Responsibility**: Users are responsible for verifying course details, prerequisites, technical requirements, and completion criteria directly with the provider before enrolling.
 *   **Search Functionality**: The search terms we provide are suggestions based on current catalog structures. Institutions may change their search algorithms or category systems.
 *   **No Endorsement**: Inclusion in this directory does not constitute endorsement of any institution, course, or certification program.
+
+
+## Changelog
+| Date | Version | Changes | 
+| :--- | :--- | :--- |
+| 12/26/25 | v1.0 | Coursera related courses have been eliminated due to changes in their policy |
