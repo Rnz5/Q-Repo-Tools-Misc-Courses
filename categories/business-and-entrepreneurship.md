@@ -6,7 +6,6 @@ For entrepreneurs, small business owners, and aspiring business leaders.
 ### Recommended Institutions
 | Institution | What to Find There | Best For |
 |-------------|-------------------|----------|
-| [Coursera](/institutions/coursera.md) | Startup fundamentals, business planning, entrepreneurship courses | University-backed business education |
 | [edX](/institutions/edx.md) | Business management, entrepreneurship, finance from top universities | Academic business training |
 | [HP Life](/institutions/hp-life.md) | Small business skills, entrepreneurship basics, digital business | Practical small business management |
 | [Salesforce Trailhead](/institutions/salesforce.md) | CRM, customer management, business process automation | Customer-focused businesses |

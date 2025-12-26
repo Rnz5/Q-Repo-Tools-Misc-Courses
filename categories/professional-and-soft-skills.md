@@ -7,7 +7,6 @@ For developing interpersonal skills, communication, leadership, and workplace ef
 | Institution | What to Find There | Best For |
 |-------------|-------------------|----------|
 | [LinkedIn Learning](/institutions/linkedin.md) | Communication, leadership, teamwork, professional development | Workplace-specific soft skills |
-| [Coursera](/institutions/coursera.md) | University-taught soft skills, psychology-based approaches | Academic foundation for interpersonal skills |
 | [edX](/institutions/edx.md) | Leadership, communication, negotiation from top universities | Formal soft skills education |
 | [FutureLearn](/institutions/futurelearn.md) | UK/EU workplace skills, professional communication | International workplace perspectives |
 | [Alison](/institutions/alison.md) | Workplace communication, teamwork, professional ethics | Practical workplace application |

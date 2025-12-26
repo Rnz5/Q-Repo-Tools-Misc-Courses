@@ -9,7 +9,6 @@ For digital marketing, social media, content creation, and online brand building
 | [HubSpot Academy](/institutions/hubspot.md) | Inbound marketing, content strategy, SEO, social media | Comprehensive digital marketing |
 | [Google Skill Shop](/institutions/google-skill-shop.md) | Google Ads, Analytics, digital marketing tools | Google marketing ecosystem |
 | [Canva Design School](/institutions/canva.md) | Visual content creation, social media graphics, branding | Creating marketing visuals |
-| [Coursera](/institutions/coursera.md) | Digital marketing strategy, analytics, campaign management | Strategic marketing approach |
 | [edX](/institutions/edx.md) | University marketing courses, digital strategy | Academic marketing foundation |
 | [LinkedIn Learning](/institutions/linkedin.md) | Social media marketing, personal branding, B2B marketing | Professional network marketing |
 | [Udemy](/institutions/udemy.md) | Specific platform marketing (Facebook, Instagram, TikTok) | Platform-specific tactics |

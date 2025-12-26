@@ -8,7 +8,6 @@ For graphic design, creative skills, visual communication, and artistic developm
 |-------------|-------------------|----------|
 | [Canva Design School](/institutions/canva.md) | Design principles, visual communication, template creation | Practical design for non-designers |
 | [Skillshare](/institutions/skillshare.md) | Creative skills, illustration, photography, video editing | Broad creative skill development |
-| [Coursera](/institutions/coursera.md) | Design theory, UX/UI principles, creative thinking | Academic design foundation |
 | [edX](/institutions/edx.md) | University design courses, visual arts, creative technologies | Formal design education |
 | [Udemy](/institutions/udemy.md) | Specific software training (Photoshop, Illustrator, etc.) | Tool-specific mastery |
 | [LinkedIn Learning](/institutions/linkedin.md) | Professional design skills, creative software, portfolio building | Career-focused creative skills |

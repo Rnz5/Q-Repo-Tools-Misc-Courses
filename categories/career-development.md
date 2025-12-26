@@ -7,7 +7,6 @@ For job seekers, career changers, and professionals looking to advance.
 | Institution | What to Find There | Best For |
 |-------------|-------------------|----------|
 | [LinkedIn Learning](/institutions/linkedin.md) | Resume writing, LinkedIn optimization, interview skills, personal branding | Building professional presence |
-| [Coursera](/institutions/coursera.md) | Career planning, job search strategies, industry-specific preparation | Structured career pathways |
 | [edX](/institutions/edx.md) | University-led career development, professional certifications | Academic approach to career growth |
 | [Udemy](/institutions/udemy.md) | Interview preparation, salary negotiation, specific role training | Practical, immediate job search skills |
 | [Alison](/institutions/alison.md) | Workplace skills, professional development, certification preparation | Free career advancement courses |

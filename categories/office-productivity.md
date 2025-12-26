@@ -11,7 +11,6 @@ For all your office software, collaboration tools, and digital productivity need
 | [Canva Design School](/institutions/canva.md) | Presentation design, visual communication, graphics for office use | Creating professional visuals |
 | [Slack Academy](/institutions/slack.md) | Team communication, collaboration, workflow optimization | Team messaging and coordination |
 | [Zoom Learning Center](/institutions/zoom.md) | Video conferencing, virtual meetings, webinar hosting | Remote meetings and presentations |
-| [Coursera](/institutions/coursera.md) | Advanced Office skills, data analysis, presentation techniques | Deepening specific productivity skills |
 | [Udemy](/institutions/udemy.md) | Office software mastery, productivity hacks, tool integration | Practical, hands-on tool training |
 
 ### Common Searches
