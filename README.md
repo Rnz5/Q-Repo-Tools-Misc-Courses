@@ -20,9 +20,7 @@ This project serves as a structured, centralized knowledge base for miscellaneou
 |--------|------------------|----------|-------------|
 | **[Google Sheets](institutions/google-skill-shop.md)** | Google Skill Shop | [Office Productivity](categories/office-productivity.md) | `"Sheets" or "Spreadsheets"` |
 | **[Refresh Your Resume](institutions/linkedin.md)** | LinkedIn Learning | [Career Development](categories/career-development.md) | `"Resume Writing" or "CV"` |
-| **[Starting an MSP Business](institutions/coursera.md)** | Coursera | [Business & Entrepreneurship](categories/business-entrepreneurship.md) | `"MSP" or "Managed Service"` |
 | **[Cisco Packet Tracer](institutions/cisco-network.md)** | Cisco Networking Academy | [Extra (specific)](categories/extra-specific.md) | `"Packet Tracer"` |
-| **[How to Negotiate](institutions/coursera.md)** | Coursera | [Professional & Soft Skills](categories/professional-soft-skills.md) | `"Negotiation Skills"` |
 | **[Intro to Psychology](institutions/edx.md)** | edX | [Personal Development](categories/personal-development.md) | `"Introduction to Psychology"` |
 
 ## 📂 Browse by Category
